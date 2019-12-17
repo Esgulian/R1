@@ -1,5 +1,5 @@
 # R1
-Exercice GitHub - TESTBIS
+Exercice GitHub TEST conflit
 Coucou
 modification C2
 Modidication C3
